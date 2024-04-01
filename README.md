@@ -1,5 +1,4 @@
-![](https://images.pexels.com/photos/265216/pexels-photo-265216.jpeg?auto=compress&cs=tinysrgb&w=600)
-
+<div align=center><img src='https://images.pexels.com/photos/2131784/pexels-photo-2131784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'></div>
 
 
 **Objective**
@@ -40,8 +39,6 @@ Gases, Nitrous oxide, methane emission are on the increase, It is therefore advi
 #
 
 **Reference**
-
-
 
 [Data Source](https://data.humdata.org/dataset/world-bank-agriculture-and-rural-development-indicators-for-nigeria)
 
