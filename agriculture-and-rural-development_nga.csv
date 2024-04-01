@@ -451,10 +451,11 @@ Nigeria,NGA,1964,Arable land (% of land area),AG.LND.ARBL.ZS,26.4808897965458
 Nigeria,NGA,1963,Arable land (% of land area),AG.LND.ARBL.ZS,26.3194879058379
 Nigeria,NGA,1962,Arable land (% of land area),AG.LND.ARBL.ZS,26.1569880430844
 Nigeria,NGA,1961,Arable land (% of land area),AG.LND.ARBL.ZS,25.9955861523766
-Nigeria,NGA,2021,Land under cereal production (hectares),AG.LND.CREL.HA,18275916
-Nigeria,NGA,2020,Land under cereal production (hectares),AG.LND.CREL.HA,17521794
-Nigeria,NGA,2019,Land under cereal production (hectares),AG.LND.CREL.HA,18041452
-Nigeria,NGA,2018,Land under cereal production (hectares),AG.LND.CREL.HA,18158922
+Nigeria,NGA,2022,Land under cereal production (hectares),AG.LND.CREL.HA,18350981
+Nigeria,NGA,2021,Land under cereal production (hectares),AG.LND.CREL.HA,18473891
+Nigeria,NGA,2020,Land under cereal production (hectares),AG.LND.CREL.HA,18025044
+Nigeria,NGA,2019,Land under cereal production (hectares),AG.LND.CREL.HA,18299733
+Nigeria,NGA,2018,Land under cereal production (hectares),AG.LND.CREL.HA,18195673
 Nigeria,NGA,2017,Land under cereal production (hectares),AG.LND.CREL.HA,18676572
 Nigeria,NGA,2016,Land under cereal production (hectares),AG.LND.CREL.HA,17443380
 Nigeria,NGA,2015,Land under cereal production (hectares),AG.LND.CREL.HA,16541075
@@ -818,10 +819,11 @@ Nigeria,NGA,1964,"Agricultural machinery, tractors per 100 sq. km of arable land
 Nigeria,NGA,1963,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,0.226270708012359
 Nigeria,NGA,1962,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,0.225409836065574
 Nigeria,NGA,1961,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,0.21117977269454
-Nigeria,NGA,2021,Cereal production (metric tons),AG.PRD.CREL.MT,29910609.35
-Nigeria,NGA,2020,Cereal production (metric tons),AG.PRD.CREL.MT,29207946.44
-Nigeria,NGA,2019,Cereal production (metric tons),AG.PRD.CREL.MT,29798404.69
-Nigeria,NGA,2018,Cereal production (metric tons),AG.PRD.CREL.MT,30647094.9
+Nigeria,NGA,2022,Cereal production (metric tons),AG.PRD.CREL.MT,30392680
+Nigeria,NGA,2021,Cereal production (metric tons),AG.PRD.CREL.MT,29913046.35
+Nigeria,NGA,2020,Cereal production (metric tons),AG.PRD.CREL.MT,29210106.83
+Nigeria,NGA,2019,Cereal production (metric tons),AG.PRD.CREL.MT,29795814.94
+Nigeria,NGA,2018,Cereal production (metric tons),AG.PRD.CREL.MT,30645842.17
 Nigeria,NGA,2017,Cereal production (metric tons),AG.PRD.CREL.MT,30156613.73
 Nigeria,NGA,2016,Cereal production (metric tons),AG.PRD.CREL.MT,30235944.48
 Nigeria,NGA,2015,Cereal production (metric tons),AG.PRD.CREL.MT,25682666.24
@@ -1123,10 +1125,11 @@ Nigeria,NGA,1964,Surface area (sq. km),AG.SRF.TOTL.K2,923770
 Nigeria,NGA,1963,Surface area (sq. km),AG.SRF.TOTL.K2,923770
 Nigeria,NGA,1962,Surface area (sq. km),AG.SRF.TOTL.K2,923770
 Nigeria,NGA,1961,Surface area (sq. km),AG.SRF.TOTL.K2,923770
-Nigeria,NGA,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1636.6
-Nigeria,NGA,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1666.9
-Nigeria,NGA,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1651.7
-Nigeria,NGA,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1687.7
+Nigeria,NGA,2022,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1656.2
+Nigeria,NGA,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1619.2
+Nigeria,NGA,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1620.5
+Nigeria,NGA,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1628.2
+Nigeria,NGA,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1684.2
 Nigeria,NGA,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1614.7
 Nigeria,NGA,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1733.4
 Nigeria,NGA,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1552.7
@@ -1477,99 +1480,102 @@ Nigeria,NGA,1984,"Agriculture, forestry, and fishing, value added (% of GDP)",NV
 Nigeria,NGA,1983,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.9907328930728
 Nigeria,NGA,1982,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.5026901414336
 Nigeria,NGA,1981,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.240409246888
-Nigeria,NGA,2021,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,24.63433
-Nigeria,NGA,2020,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,25.11607
-Nigeria,NGA,2019,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,25.53938
-Nigeria,NGA,2018,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,25.89627
-Nigeria,NGA,2017,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,26.17265
-Nigeria,NGA,2016,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,26.46627
-Nigeria,NGA,2015,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,26.99914
-Nigeria,NGA,2014,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,27.78267
-Nigeria,NGA,2013,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,28.46951
-Nigeria,NGA,2012,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,30.45828
-Nigeria,NGA,2011,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,32.40736
-Nigeria,NGA,2010,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,33.18729
-Nigeria,NGA,2009,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,33.79107
-Nigeria,NGA,2008,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,34.66385
-Nigeria,NGA,2007,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,35.33283
-Nigeria,NGA,2006,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,36.08263
-Nigeria,NGA,2005,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,36.84277
-Nigeria,NGA,2004,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,37.50163
-Nigeria,NGA,2003,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,38.41364
-Nigeria,NGA,2002,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,39.20134
-Nigeria,NGA,2001,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,40.28273
-Nigeria,NGA,2000,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,41.23687
-Nigeria,NGA,1999,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,41.77559
-Nigeria,NGA,1998,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,42.12012
-Nigeria,NGA,1997,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,42.65912
-Nigeria,NGA,1996,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,42.97366
-Nigeria,NGA,1995,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,43.18652
-Nigeria,NGA,1994,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,43.1438
-Nigeria,NGA,1993,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,43.21765
-Nigeria,NGA,1992,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,43.32779
-Nigeria,NGA,1991,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,43.48763
-Nigeria,NGA,2021,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,43.49703
-Nigeria,NGA,2020,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,44.15115
-Nigeria,NGA,2019,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,43.37531
-Nigeria,NGA,2018,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,43.9398
-Nigeria,NGA,2017,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,44.54036
-Nigeria,NGA,2016,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.13605
-Nigeria,NGA,2015,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.44979
-Nigeria,NGA,2014,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.89401
-Nigeria,NGA,2013,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.85549
-Nigeria,NGA,2012,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,47.38376
-Nigeria,NGA,2011,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,47.80017
-Nigeria,NGA,2010,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,48.56585
-Nigeria,NGA,2009,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,49.59767
-Nigeria,NGA,2008,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,50.13686
-Nigeria,NGA,2007,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,50.77732
-Nigeria,NGA,2006,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,51.40588
-Nigeria,NGA,2005,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,52.06572
-Nigeria,NGA,2004,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,52.77091
-Nigeria,NGA,2003,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,54.46294
-Nigeria,NGA,2002,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.74551
-Nigeria,NGA,2001,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.99421
-Nigeria,NGA,2000,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,56.48822
-Nigeria,NGA,1999,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,57.43594
-Nigeria,NGA,1998,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,57.85631
-Nigeria,NGA,1997,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,58.03495
-Nigeria,NGA,1996,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,58.2324
-Nigeria,NGA,1995,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,58.48975
-Nigeria,NGA,1994,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,58.6565
-Nigeria,NGA,1993,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,58.65568
-Nigeria,NGA,1992,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,58.5808
-Nigeria,NGA,1991,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,58.78083
-Nigeria,NGA,2021,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,35.20511
-Nigeria,NGA,2020,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,35.75922
-Nigeria,NGA,2019,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,35.51901
-Nigeria,NGA,2018,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,35.91854
-Nigeria,NGA,2017,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,36.29753
-Nigeria,NGA,2016,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,36.67591
-Nigeria,NGA,2015,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,37.0064
-Nigeria,NGA,2014,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,37.52303
-Nigeria,NGA,2013,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.27072
-Nigeria,NGA,2012,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,39.46394
-Nigeria,NGA,2011,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,40.58178
-Nigeria,NGA,2010,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,41.3431
-Nigeria,NGA,2009,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,42.16732
-Nigeria,NGA,2008,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,42.85565
-Nigeria,NGA,2007,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,43.50106
-Nigeria,NGA,2006,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,44.1769
-Nigeria,NGA,2005,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,44.87226
-Nigeria,NGA,2004,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,45.55516
-Nigeria,NGA,2003,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,46.8777
-Nigeria,NGA,2002,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.92553
-Nigeria,NGA,2001,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,48.565
-Nigeria,NGA,2000,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,49.2726
-Nigeria,NGA,1999,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,50.0396
-Nigeria,NGA,1998,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,50.43721
-Nigeria,NGA,1997,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,50.79797
-Nigeria,NGA,1996,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.06166
-Nigeria,NGA,1995,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.30594
-Nigeria,NGA,1994,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.39478
-Nigeria,NGA,1993,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.44627
-Nigeria,NGA,1992,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.47222
-Nigeria,NGA,1991,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.66372
+Nigeria,NGA,2022,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,28.8607712139937
+Nigeria,NGA,2021,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,29.7720372968
+Nigeria,NGA,2020,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,29.9619947128603
+Nigeria,NGA,2019,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,30.00170342515
+Nigeria,NGA,2018,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,29.6412743896781
+Nigeria,NGA,2017,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,29.3159424442083
+Nigeria,NGA,2016,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,28.7481834058009
+Nigeria,NGA,2015,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,28.3583289385581
+Nigeria,NGA,2014,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,28.3698576698292
+Nigeria,NGA,2013,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,28.5698568837944
+Nigeria,NGA,2012,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,30.4461652893905
+Nigeria,NGA,2011,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,32.2729831916594
+Nigeria,NGA,2010,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,33.301401452356
+Nigeria,NGA,2009,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,34.2879291600306
+Nigeria,NGA,2008,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,35.3394914487747
+Nigeria,NGA,2007,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,36.2872876745542
+Nigeria,NGA,2006,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,37.7736776913213
+Nigeria,NGA,2005,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,38.9741194885549
+Nigeria,NGA,2004,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,40.0750673041881
+Nigeria,NGA,2003,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,41.3640796260614
+Nigeria,NGA,2002,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,42.1403457969609
+Nigeria,NGA,2001,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,42.7482143385892
+Nigeria,NGA,2000,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,43.4648569856272
+Nigeria,NGA,1999,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,44.2260067486073
+Nigeria,NGA,1998,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,44.6734224776733
+Nigeria,NGA,1997,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,45.3047420314758
+Nigeria,NGA,1996,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,45.696354273615
+Nigeria,NGA,1995,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,46.0055440571026
+Nigeria,NGA,1994,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,46.0417644245801
+Nigeria,NGA,1993,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,46.1746393587184
+Nigeria,NGA,1992,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,46.3021563729942
+Nigeria,NGA,1991,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,46.5459282224202
+Nigeria,NGA,2022,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,44.8600244434693
+Nigeria,NGA,2021,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.2482057588857
+Nigeria,NGA,2020,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.6426515007479
+Nigeria,NGA,2019,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.3586924793395
+Nigeria,NGA,2018,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.81387996506
+Nigeria,NGA,2017,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.0540079594414
+Nigeria,NGA,2016,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.2068330976736
+Nigeria,NGA,2015,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.2117290952733
+Nigeria,NGA,2014,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.5403185023236
+Nigeria,NGA,2013,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,47.0542556923564
+Nigeria,NGA,2012,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,47.5623281316784
+Nigeria,NGA,2011,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,47.9188407219948
+Nigeria,NGA,2010,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,48.4713451291181
+Nigeria,NGA,2009,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,49.0250622753893
+Nigeria,NGA,2008,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,49.5632543495512
+Nigeria,NGA,2007,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,49.8827527132621
+Nigeria,NGA,2006,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,50.0846692062395
+Nigeria,NGA,2005,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,50.3068415022641
+Nigeria,NGA,2004,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,50.4665667214896
+Nigeria,NGA,2003,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,51.8727106324575
+Nigeria,NGA,2002,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,53.006508504074
+Nigeria,NGA,2001,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,54.1316167471969
+Nigeria,NGA,2000,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.0728336561952
+Nigeria,NGA,1999,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.7361390838358
+Nigeria,NGA,1998,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,56.0665642277607
+Nigeria,NGA,1997,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,56.5099027554712
+Nigeria,NGA,1996,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,56.8202660217958
+Nigeria,NGA,1995,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,57.1016416314163
+Nigeria,NGA,1994,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,57.1415484430576
+Nigeria,NGA,1993,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,57.1837518937287
+Nigeria,NGA,1992,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,57.2198778594372
+Nigeria,NGA,1991,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,57.4392657043825
+Nigeria,NGA,2022,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,37.9852430869308
+Nigeria,NGA,2021,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.5536134997117
+Nigeria,NGA,2020,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.7829189596075
+Nigeria,NGA,2019,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.5943125814827
+Nigeria,NGA,2018,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.6061835714137
+Nigeria,NGA,2017,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.5090630654193
+Nigeria,NGA,2016,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.2497955358821
+Nigeria,NGA,2015,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,37.9866994597698
+Nigeria,NGA,2014,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.0787295838553
+Nigeria,NGA,2013,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.3544000179536
+Nigeria,NGA,2012,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,39.5211303872133
+Nigeria,NGA,2011,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,40.581766171206
+Nigeria,NGA,2010,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,41.3464509036768
+Nigeria,NGA,2009,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,42.0966727371367
+Nigeria,NGA,2008,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,42.8685936854022
+Nigeria,NGA,2007,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,43.4760800415627
+Nigeria,NGA,2006,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,44.2755674610724
+Nigeria,NGA,2005,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,44.9507372187557
+Nigeria,NGA,2004,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,45.5551609062463
+Nigeria,NGA,2003,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,46.9047512319689
+Nigeria,NGA,2002,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.868173713823
+Nigeria,NGA,2001,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,48.7451620079276
+Nigeria,NGA,2000,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,49.5764591446897
+Nigeria,NGA,1999,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,50.2942271698273
+Nigeria,NGA,1998,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,50.68860011543
+Nigeria,NGA,1997,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.2282168195285
+Nigeria,NGA,1996,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.5834860400298
+Nigeria,NGA,1995,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.8822437188793
+Nigeria,NGA,1994,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.9341346954934
+Nigeria,NGA,1993,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,52.0301940103021
+Nigeria,NGA,1992,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,52.1195643941237
+Nigeria,NGA,1991,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,52.3565572343255
 Nigeria,NGA,2022,Rural population,SP.RUR.TOTL,101575770
 Nigeria,NGA,2021,Rural population,SP.RUR.TOTL,100840661
 Nigeria,NGA,2020,Rural population,SP.RUR.TOTL,100084652
